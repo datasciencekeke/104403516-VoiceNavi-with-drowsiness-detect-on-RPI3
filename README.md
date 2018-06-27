@@ -1,5 +1,7 @@
 # VoiceNavi-with-drowsiness-detect-on-RPI3
 
+Video demo: https://drive.google.com/file/d/1SjvRM6NwGW68uo_IeRiWRV4KULrzQBt_/view?usp=sharing
+
 The primary purpose for this navigation system is where it can act as a verbal guidance for the driver on their way but simultaneously detecting whether the driver is truly focusing on driving! This is particularly useful when people are in a long haul drive or for someone like truck drivers who would usually driving for a long time. By implementing this system on every cars, we are able to create a safer driving environment not only for driver themselves but also for those people who have rights to be on a safe and secure highway or road. Nonetheless, the most effective way of protecting everyone's safety while driving is operating vehicles according to local regulations as well as making sure we are in the best physical and mental state of driving a car.
 
 Step 1: What do we need?
